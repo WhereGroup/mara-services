@@ -1,0 +1,7 @@
+dist
+data/
+logs/
+.idea
+/env/host/current
+/images/postgis/data.sql
+/images/postgis/dump.sql

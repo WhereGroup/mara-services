@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* reset base styles */
+#root {
+  background-color: #fff;
+  position: static;
+  min-height: initial;
+  top: initial;
+  right: initial;
+  left: initial;
+  bottom: initial;
+  display:flex;
+  flex: 1;
+}
+.map {
+  display:flex;
+  flex:1;
+}
+.map .mapContainer {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: initial;
+  right: initial;
+  left: initial;
+  bottom: initial;
+  z-index: 100;
+}
+.map .mlMap {
+  width: 100%;
+  /*min-height: 60vh;*/
+  display: flex;
+  align-items: stretch;
+}
+
+.map .mlMap > .mapContainer {
+  width: 100%;
+  height: 100%;
+  z-index: unset;
+  border-radius: 4px;
+}
+
+#root {
+  /*padding:1rem;*/
+  background-color:initial;
+  width: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+  padding: 0 !important;
+}
+.mapboxgl-control-container{
+  display: block;
+}
+
+#drawer-footer {
+  position: absolute;
+  bottom: 1rem;
+  padding-left: 0.5rem;
+}

@@ -1,0 +1,1 @@
+include ../_include/skeleton.mk
