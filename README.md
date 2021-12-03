@@ -1,6 +1,8 @@
 <img align="right" src="doc/logo_mara_256.png" />
 
-# MARA Project
+# PTM Tool (Public Transport vs. Mobility Tool)
+
+# MARA Services
 
 ## Requirements
 
