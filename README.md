@@ -1,3 +1,5 @@
+<img align="right" src="doc/logo_mara_256.png" />
+
 # MARA Project
 
 ## Requirements
@@ -85,3 +87,19 @@ Staging-/test-environment.
 ### Development
 
 local development environment
+
+-----
+
+The PTM tool was developed within the framework of the INTERREG Project "[MARA – Mobility and Accessibility in Rural Areas](https://www.mara-mobility.eu/)".
+
+<img src="doc/logo_partners_2048.png" width="100%" />
+
+<br /><br /><br />
+
+The Tool (incl. this documentation) was developed by
+
+<a href="https://www.regierung-mv.de/Landesregierung/em"><img src="doc/logo_em_128.png" width="15%" /></a>
+
+and
+
+<a href="https://wheregroup.com"><img src="doc/logo_wheregroup_128.png" width="15%" /></a>
